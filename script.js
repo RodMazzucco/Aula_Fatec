@@ -7,6 +7,6 @@ function media() {
     if (media >= 7) {
         alert("Parabéns, aprovado! Média: " + media);
     } else {
-        alert("Reprovado!");
+        alert("Reprovado!" + media);
     }
 }
